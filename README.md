@@ -1,5 +1,5 @@
 ## Cafeteria Bookworm
-Página da Web em CSS e HTML da Cafeteria BookWorm.
+Página da Web em HTML e CSS da Cafeteria BookWorm.
 
 #
 
