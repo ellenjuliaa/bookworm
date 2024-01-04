@@ -2,7 +2,7 @@
 Página da Web em HTML e CSS da Cafeteria BookWorm.
 
 ## Link para acessar o projeto:
-https://luumiyz.github.io/bookworm/
+https://ellenjuliaa.github.io/bookworm/
 
 ## Página inicial:
 ![print1](https://user-images.githubusercontent.com/117964772/212786405-8394704b-6086-4492-94da-688a8b9ec27f.png)
